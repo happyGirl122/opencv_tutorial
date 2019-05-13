@@ -1,3 +1,4 @@
+##https://mp.weixin.qq.com/s?__biz=MzA4MDExMDEyMw==&mid=2247485644&idx=1&sn=e42d18070c19d0c089fb159fde4d0d4f&chksm=9fa87f88a8dff69e18777cbeca2a947dabce3ae4811d69166e14d32cacc74317dd4336d01551&mpshare=1&scene=1&srcid=0429dnN8kAjPAyXTf0XLMbKG&pass_ticket=6FZaz8p5dvghipdB7kQ8HeztVdSI2kf9A2VmXqmIaMR2f84h6CK4mJXW4tkUF4wA#rd
 ## OpenCV 4.0 C++/python SDK tutorial
 - include dnn module code example
 - very useful case study
